@@ -61,7 +61,7 @@ print(x is y) #is
 print(x is not y) #isnot
 
 
-
+#membership operator
 x = "pakistani flag"
 y = "flag"
 print(x in y) #in
