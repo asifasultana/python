@@ -16,7 +16,7 @@ x = "python program"
 print(x[-1],x[13])
 print(len(x))
   
-  
+
 #in and notin
   
 z = "junaid" not in x #notin
